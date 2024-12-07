@@ -25,3 +25,6 @@ function findOdd(A) {
 }
 
 console.log(findOdd([0,1,0,1,0]))
+
+// This question was the first time I've ever used hash maps, shout out to Sean for showing me the basics.
+// I want to do more problems with hash maps next time, I still need to learn the methods and syntax.

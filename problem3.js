@@ -30,3 +30,6 @@ function spinWords(string) {
   }
   return solution.join(' ')
 }
+
+// I like this problem, it has an added complexity to it since you are reversing the string
+// for individual words instead of the whole sentence.

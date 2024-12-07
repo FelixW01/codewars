@@ -25,3 +25,6 @@ function createPhoneNumber(numbers) {
 }
 
 console.log(createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]))
+
+// I Like this problem, it's simple and yet has a level of complexity to it.
+// I think the template literal approach I did was a nice touch.

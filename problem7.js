@@ -32,3 +32,5 @@ function oddOrEven(array) {
 }
 
 console.log(oddOrEven([0, 1, 5]))
+
+// This question was pretty straight-forward. It's a great exercise to make sure you know your array method and fundamentals.

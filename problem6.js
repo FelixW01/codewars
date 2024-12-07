@@ -60,3 +60,6 @@ function towerBuilder(nFloors) {
 }
 
 console.log(towerBuilder(3))
+
+// This problem was pretty complicated. I got the stars dynamically generated in under 2 minutes but-
+// implementing the logic with the to dynamically add the spaces on both sides took me quite a bit.

@@ -29,3 +29,6 @@ function firstNonConsecutive (arr) {
   }
 
   console.log(firstNonConsecutive([1,2,3,4,5,8]))
+
+  // This problem is more complex since the condition was to return the number or null which is usually
+  // the other way around.

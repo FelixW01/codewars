@@ -35,3 +35,7 @@ function likes(names) {
   
   return solution;
 }
+
+// This one was done via whiteboarding, you need to get the steps and logic out of the way to make it easier
+// to complete this problem. It might seem like a lot but if you get the conditionals out of the way
+// You will have an easier time.

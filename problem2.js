@@ -21,3 +21,7 @@ function solution(str){
    }
   return solution
 }
+
+console.log(solution('abcdef'))
+// This problem was done via whiteboarding
+// I think the _ adds more complexity to it
